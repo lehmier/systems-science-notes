@@ -1,4 +1,4 @@
-Part IV:  Evolution
+# Part IV:  Evolution
 
 ## Chapters
 10. Auto-Organization and Emergence

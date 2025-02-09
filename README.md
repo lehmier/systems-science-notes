@@ -10,3 +10,5 @@ My personal notes as I read the epic and behemoth book [Principles of Systems Sc
 4. [Evolution](./parts/04-evolution/)
 5. [Methodological Aspects](./parts/05-methodological-aspects/)
 
+## By Chapters
+TODO
