@@ -2,7 +2,7 @@ Chapter 1 - A Helicopter View
 ==============
 
 # 1.1 Why Systems Science:  The State of Knowledge and Understanding
-* Knowledge
+* **Knowledge**
     * There are over 100M non-fiction books & ~20x that in journal article publications.
     * Then consider how much other forms of media humans have produced.
     * How much of this constitues real human knowledge?
@@ -13,23 +13,24 @@ Chapter 1 - A Helicopter View
         * dwindling natural resources
     * "If we really understood how the world works, would this be the case?" (p 4).
     * Maybe our knowledge is incomplete, or perhaps we haven't fully understood the "whole" despite having knowledge of the "parts". (Now we're getting into systems...)
-* Science
+* **Science**
     * Science is about gaining useful knowledge, but has largely been about the parts.
     * Example:  Consider the improvements in our transportation and communication systems, but what about the consequences of globalization in every area of life?
-* Why do we need systems science?
+* **Why do we need systems science?**
     * To go deeper into more areas of components of a system
     * See borders & places of meeting & transition
     * Follow complex dynamics of how components function together relative to each other that cannot be captured individually 
-* Systems science is a meta science ("meta" Greek for "beyond").
+* **Systems science is a meta science**
+    * "meta" Greek for "beyond"
     * We have major forms of science: physics, chemistry, biology, etc., each with their own subfields. 
     * Systems science goes beyond the boundaries of any particular science to include them all.
     * Consider physics and chemistry-- systems science would allow us to understand the relationship between the two, or how they relate to biology.
-* Whole systems thinking 
+* **Whole systems thinking**
     * Developed over the last 75 years (relative to 2015) to discover connectedness of things that seem to be unconnected
     * Tools for exploring wholeness & interrelatedness
    * The book is about a metascience, looking at parts of the world in a way that in unifying & explanatory.
     * Shows how to integrate knowledge of other sciences & provide them meaningful guidance.
-* Systems
+* **Systems**
     * "Virtually everything in the universe, including the universe itself, is a system!"
     * Systems are composed of systems
     * Both fascinating & critical to our lives is understanding the world system, life system, and socioeconomic systems; we are participants in each of these systems.
