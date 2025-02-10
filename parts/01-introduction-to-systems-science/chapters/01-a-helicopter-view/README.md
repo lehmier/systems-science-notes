@@ -68,6 +68,32 @@ Chapter 1 - A Helicopter View
 
 
 ## 1.2.1 What Is a Science?
+* **Definition of Science**  
+  * Science is more than just the scientific method—it is a way of thinking and understanding the universe.  
+  * It involves observation, curiosity, and speculation based on prior knowledge and discoveries.  
+  * Scientific inquiry is shaped by education and the cumulative work of previous scientists.  
+* **Scientific Method**  
+  * Formulating hypotheses based on informed speculation.  
+  * Designing and conducting controlled tests with measurements.  
+  * Using mathematical analysis, especially in the natural sciences.  
+  * Social sciences may use qualitative methods instead of quantitative ones.  
+  * The general public has limited experience with real scientific processes beyond basic school experiments.  
+* **Major Scientific Disciplines and Their Focus**  
+  * **Physics** – Studies matter/energy organization from cosmic to quantum levels.  
+  * **Chemistry** – Examines interactions between atoms and molecules, originating from stellar fusion.  
+  * **Biology** – Investigates dynamic interactions of living organisms.  
+  * **Ecology** – Focuses on the organization of life within ecosystems and the physical flows sustaining them.  
+  * **Social Sciences** – Explores human organizational complexity.  
+  * **Systems Science** – Examines relationships and organization across all levels of complexity.  
+* **Science as a Process**  
+  * Seeks to discover and codify how objects in the universe interact.  
+  * Objects studied must have some real embodiment, even if hidden (e.g., neural circuits for thoughts).  
+  * Observability and measurement allow repeatability, verification, and collective inquiry.  
+* **Mathematics and Science**  
+  * **Physics** is the most mathematically rigorous science, often seen as the "king" of sciences.  
+  * However, emergent complexity in chemistry, biology, and ecology introduces new dynamics.  
+  * No single scientific discipline should be taken as the model for all science. Different levels of complexity require appropriately tailored approaches.
+
 ## 1.2.2 What Is Systems Science?
 
 # 1.3 Systems Science as a Mode of Inquiry
