@@ -5,7 +5,7 @@ Chapter 1 - A Helicopter View
 * **Knowledge**
     * There are over 100M non-fiction books & ~20x that in journal article publications.
     * Then consider how much other forms of media humans have produced.
-    * How much of this constitues real human knowledge?
+    * How much of this constitutes real human knowledge?
     * If we have all of this knowledge, why do we still have so many problems?
         * global population heading towards 9B people
         * food and water supply threats
@@ -28,7 +28,7 @@ Chapter 1 - A Helicopter View
 * **Whole systems thinking**
     * Developed over the last 75 years (relative to 2015) to discover connectedness of things that seem to be unconnected
     * Tools for exploring wholeness & interrelatedness
-   * The book is about a metascience, looking at parts of the world in a way that in unifying & explanatory.
+   * The book is about a metascience, looking at parts of the world in a way that is unifying & explanatory.
     * Shows how to integrate knowledge of other sciences & provide them meaningful guidance.
 * **Systems**
     * "Virtually everything in the universe, including the universe itself, is a system!"
