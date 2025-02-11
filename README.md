@@ -1,5 +1,6 @@
 # systems-science-notes
 My notes on [Principles of Systems Science](https://link.springer.com/book/10.1007/978-1-4939-1920-8).
+
 G. E. Mobus and M. C. Kalton, Principles of Systems Science. New York, NY, USA: Springer, 2015.
 
 
